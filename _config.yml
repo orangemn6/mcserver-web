@@ -17,9 +17,9 @@ serverIP: mc.jacobgoldstein.tk
 
 
 # Discord information
-discordInvite: https://discord.gg/ej8XVktAGP
-discordServerID: 786299921078026280
-discordChannelID: 786299921078026282
+discordInvite: "https://discord.gg/ej8XVktAGP"
+discordServerID: "786299921078026280"
+discordChannelID: "786299921078026282"
 
 
 # Navbar Links at the top of the page
